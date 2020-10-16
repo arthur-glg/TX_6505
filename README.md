@@ -1,6 +1,6 @@
 
 
-## ![readme_cover](C:\Users\guill\Desktop\UTC\QUI TRAINE TX\htmlTX\travail nouvel export\media\readme_cover.png)
+## ![readme_cover](media\readme_cover.png)
 
 ## Présentation
 
