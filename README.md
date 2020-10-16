@@ -1,6 +1,6 @@
 
 
-## ![readme_cover](media\readme_cover.png)
+![](https://raw.githubusercontent.com/arthur-glg/TX_6505/main/media/readme_cover.png)
 
 ## Présentation
 
