@@ -1,5 +1,3 @@
-
-
 ![](https://raw.githubusercontent.com/arthur-glg/TX_6505/main/media/readme_cover.png)
 
 ## Présentation
@@ -18,3 +16,4 @@ Par la suite, l'analyse cartographique permet de montrer que la région est bipo
 
 Enfin l'étude des producteurs vient compléter la vision globale des AMAP avec les aires de chalandise qui confirment le statut local des AMAP. En effet, les producteurs se situent à une distance moyenne de 27 km de leurs AMAP, là où les circuits longs peuvent aligner plusieurs milliers de kilomètres. On y apprend aussi que la culture maraîchère - qui est une des cultures les plus économes en espace - est plus proche de l'AMAP en moyenne que l'élevage de bétail ou la manufacturation des produits transformés (Miel, Alcool, Fromage...). Pour finir, le point de vue producteur nous confirme aussi les valeurs essentielles de l'agriculture paysanne, à savoir la solidarité, la confiance et la volonté de démocratisation de produits alimentaires sains de saison.
 
+## [Lien vers notre travail](https://arthur-glg.github.io/TX_6505/)
